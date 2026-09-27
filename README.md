@@ -21,7 +21,8 @@ PhD student in the Graduate Program in Electronic Engineering and Computing (Tel
 My research is in **NILM (Non-Intrusive Load Monitoring)** — disaggregating a household's total electricity signal into individual appliance loads using machine learning — with a long-term goal of embedded deployment in smart meters.
 
 - 🎓 PhD started February 2026 · expected completion ~Dec 2029 / Feb 2030
-- 🔬 Background in stochastic processes and statistical signal processing (WSS processes, PSD, Wiener filtering, Hilbert transforms)
+- 🔬 Background in stochastic processes and statistical signal processing (WSS processes, PSD, blind source separation)
+- 🧠 Applies deep learning architectures to NILM disaggregation
 - 📍 São José dos Campos, Brazil
 
 ### Research trajectory
